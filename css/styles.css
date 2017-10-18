@@ -1,0 +1,22 @@
+.center {
+  width: 65%;
+  margin: 1em auto 0;
+}
+
+.jumbotron h1  {
+  font-size: 2.8em;
+  text-align: center;
+  color: #007bff;
+}
+
+.card, .list-group-item {
+  background-color: lightgrey;
+}
+
+#hide {
+  display: none;
+}
+
+.card-block {
+  padding: 10px;
+}
